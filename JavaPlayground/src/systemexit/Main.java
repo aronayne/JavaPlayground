@@ -1,7 +1,7 @@
 package systemexit;
 
 /**
- * Finally clause does not always run!!!
+ * Finally clause does not always run
  * @author adrian.ronayne
  *
  */
